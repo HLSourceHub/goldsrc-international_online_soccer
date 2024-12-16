@@ -1,0 +1,14 @@
+
+
+-=by Fat Tony=-
+
+Name: Arena auf Schalke
+Location: Germany/Gelsenkirchen
+Club: Schalke 04
+First match: Schalke–Borussia Dortmund 0-0
+Inauguration: 13 August 2001
+Costs: 358 million German Marks
+Capacity: 62,000 (45,000 seats, 17,000 standing places)
+Visit http://www.arena-auf-schalke.de/
+
+Barfix and pitch tweaks by Captain Caffeine

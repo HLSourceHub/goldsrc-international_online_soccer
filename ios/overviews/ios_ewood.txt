@@ -1,0 +1,14 @@
+// overview description file for ios_ewood.bsp
+
+global 
+{
+	ZOOM	2.02
+	ORIGIN	44.0 	128.0	 144.0
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/ios_pitch_grass.bmp"
+	HEIGHT	-200
+}

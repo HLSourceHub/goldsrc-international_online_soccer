@@ -1,0 +1,1 @@
+hl.exe -game ios -num_edicts 2048 -console

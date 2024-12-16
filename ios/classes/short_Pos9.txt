@@ -1,0 +1,34 @@
+HOW TO PLAY IOS (see below):
+
+SHOOT:
+Kick ball in directon you are looking. The up and down view angle greatly affect the kick. To shoot look just above horizontal. To dribble or kick softly look down as you press shoot.
+
+SHOOT + STRAFE:
+Use strafe when kicking to swerve the ball. This only works if you kick into the air.
+
+PASS:
+Pass ball automatically to nearest player.
+
+SLIDE:
+Slide Tackle. You will slide and get up automatically.
+
+SPRINT:
+Hold SPRINT whilst running. SPRINT recovers after a set delay.
+
+TRAP:
+Trap ball - takes velocity out of the ball when pressed.
+
+TIPS:
+Look up to lift the ball into the air before you shoot. Don't look to high or you will loft it. Don't look too low or you won't get power.
+
+Look down to kick the ball softly (dribble). Hold shoot all the time while dribbling. The more angle down you look the softer the kick will be.
+
+Look up while passing to pass in the air. Look down while passing to pass along the ground.
+
+If you try to pass and there are no players near the pass will fail.
+
+To take a throw in look up and press shoot.
+
+To take a free kick or corner you can either shoot or pass.
+
+

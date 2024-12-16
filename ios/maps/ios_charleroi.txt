@@ -1,0 +1,19 @@
+
+
+by Fat Tony (fattony2@gmx.de)
+visit www.fattony.tk
+
+
+Entities by Lily & R2
+Treetexture by Kami
+
+
+Name: Stade du Pays de Charleroi
+Location: Belgium
+Club: RCSC Charleroi
+Inauguration: 1923
+Renovations: 1999
+Capacity: 30,000 seats
+
+
+Barfix and pitch tweaks by Captain Caffeine

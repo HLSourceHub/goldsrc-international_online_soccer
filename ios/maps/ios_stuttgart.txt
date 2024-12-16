@@ -1,0 +1,24 @@
+
+
+Gottlieb Daimler Stadion
+Home of VFB Stuttgart
+
+-=by Fat Tony=-
+
+
+Name: Gottlieb Daimler Stadion
+Location: Germany/Stuttgart
+Club: VFB Stuttgart
+Inauguration: 26 July 1933
+Capacity: 53,200 (4,000 standing places)
+Address: Mercedesstraﬂe 87, 70372 Stuttgart
+
+The stadium will be renovated to a 60,000 all-seater
+for the World Cup 2006.
+
+Special thanks to Battlegrounds for the 
+smoke sprite. www.bgmod.com
+
+Barfix and pitch tweaks by Captain Caffeine
+
+== Stuttgart forever :D ==

@@ -1,0 +1,7 @@
+Please Note:
+
+Goal Keepers are only available when the server is set
+for manual goal keepers. 
+
+You may have to pick another player position that
+is not a goal keeper.

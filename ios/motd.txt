@@ -1,0 +1,17 @@
+______________________
+International Online Soccer
+______________________
+
+Beta v4.0	
+
+Written and Designed by Mark Gornall (r2) 
+(routetwo@planethalflife.com)
+
+Models and Animation by Phil McClenaghan (Katharii)
+(katharii@planethalflife.com)
+
+Stadium maps by Lily, Fat Tony, Captain Caffeine, 
+Black Cat, Pepper, Viper and Tranq.
+
+Linux server by Richard Taylor.
+

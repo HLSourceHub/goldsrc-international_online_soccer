@@ -1,0 +1,13 @@
+game "International Online Soccer"
+url_info "http://www.iosoccer.com"
+version "4.0"
+svonly "0"
+cldll "1" 
+hlversion "1110"
+type "multiplayer_only"
+nomodels "1"
+size "195043754"
+mpentity "info_player_deathmatch"
+gamedll "dlls\ios.dll"
+gamedll_linux "dlls/ios_i386.so"
+
